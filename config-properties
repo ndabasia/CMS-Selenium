@@ -1,0 +1,3 @@
+# Change the browser to use for testing purposes, accepted values are Google Chrome and Firefox
+browser=Google Chrome
+
